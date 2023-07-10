@@ -1,0 +1,3 @@
+vhdl work "Orajel.vhd"
+vhdl work "dekodolo.vhd"
+verilog work "JKszamlalo.vf"

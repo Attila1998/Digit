@@ -1,0 +1,12 @@
+V3 6
+FL "D:/Digit 2/JKszamalalo/JKszamlalo/dekodolo.vhd" 2019/03/28.16:11:16 P.20131013
+EN work/dekodolo 1554797123 FL "D:/Digit 2/JKszamalalo/JKszamlalo/dekodolo.vhd" \
+      PB ieee/std_logic_1164 1381692176
+AR work/dekodolo/Behavioral 1554797124 \
+      FL "D:/Digit 2/JKszamalalo/JKszamlalo/dekodolo.vhd" EN work/dekodolo 1554797123
+FL "D:/Digit 2/JKszamalalo/JKszamlalo/Orajel.vhd" 2019/04/04.05:00:22 P.20131013
+EN work/Orajel 1554797125 FL "D:/Digit 2/JKszamalalo/JKszamlalo/Orajel.vhd" \
+      PB ieee/std_logic_1164 1381692176 PB ieee/std_logic_arith 1381692177 \
+      PB ieee/STD_LOGIC_UNSIGNED 1381692179
+AR work/Orajel/Behavioral 1554797126 \
+      FL "D:/Digit 2/JKszamalalo/JKszamlalo/Orajel.vhd" EN work/Orajel 1554797125
