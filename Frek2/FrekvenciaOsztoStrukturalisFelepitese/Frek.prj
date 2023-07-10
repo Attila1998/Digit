@@ -1,0 +1,5 @@
+vhdl work "Orajel.vhd"
+vhdl work "Logika.vhd"
+vhdl work "JKtarolo.vhd"
+vhdl work "dekodolo.vhd"
+vhdl work "Frek.vhd"

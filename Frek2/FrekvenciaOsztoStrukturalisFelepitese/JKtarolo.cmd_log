@@ -1,0 +1,2 @@
+vhdtdtfi -lib work JKtarolo.vhd -prj FrekvenciaOsztoStrukturalisFelepitese -o JKtarolo.spl -module JKtarolo -template E:/NewFolder/14.7/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e JKtarolo.spl {D:/Digit 2/FrekOszto/Frek2/FrekvenciaOsztoStrukturalisFelepitese/JKtarolo.sym} 

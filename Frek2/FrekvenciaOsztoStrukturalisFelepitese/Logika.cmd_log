@@ -1,0 +1,2 @@
+vhdtdtfi -lib work Logika.vhd -prj FrekvenciaOsztoStrukturalisFelepitese -o Logika.spl -module Logika -template E:/NewFolder/14.7/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e Logika.spl {D:/Digit 2/FrekOszto/Frek2/FrekvenciaOsztoStrukturalisFelepitese/Logika.sym} 

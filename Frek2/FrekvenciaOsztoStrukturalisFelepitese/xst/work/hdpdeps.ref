@@ -1,0 +1,37 @@
+V3 19
+FL "D:/Digit 2/FrekOszto/Frek2/FrekvenciaOsztoStrukturalisFelepitese/dekodolo.vhd" 2019/03/28.16:11:16 P.20131013
+EN work/dekodolo 1557399963 \
+      FL "D:/Digit 2/FrekOszto/Frek2/FrekvenciaOsztoStrukturalisFelepitese/dekodolo.vhd" \
+      PB ieee/std_logic_1164 1381692176
+AR work/dekodolo/Behavioral 1557399964 \
+      FL "D:/Digit 2/FrekOszto/Frek2/FrekvenciaOsztoStrukturalisFelepitese/dekodolo.vhd" \
+      EN work/dekodolo 1557399963
+FL "D:/Digit 2/FrekOszto/Frek2/FrekvenciaOsztoStrukturalisFelepitese/Frek.vhd" 2019/05/09.14:05:53 P.20131013
+EN work/Frek 1557399965 \
+      FL "D:/Digit 2/FrekOszto/Frek2/FrekvenciaOsztoStrukturalisFelepitese/Frek.vhd" \
+      PB ieee/std_logic_1164 1381692176
+AR work/Frek/Behavioral 1557399966 \
+      FL "D:/Digit 2/FrekOszto/Frek2/FrekvenciaOsztoStrukturalisFelepitese/Frek.vhd" \
+      EN work/Frek 1557399965 CP orajel CP JKtarolo CP Logika CP dekodolo
+FL "D:/Digit 2/FrekOszto/Frek2/FrekvenciaOsztoStrukturalisFelepitese/JKtarolo.vhd" 2019/04/11.14:20:13 P.20131013
+EN work/JKtarolo 1557399959 \
+      FL "D:/Digit 2/FrekOszto/Frek2/FrekvenciaOsztoStrukturalisFelepitese/JKtarolo.vhd" \
+      PB ieee/std_logic_1164 1381692176
+AR work/JKtarolo/Behavioral 1557399960 \
+      FL "D:/Digit 2/FrekOszto/Frek2/FrekvenciaOsztoStrukturalisFelepitese/JKtarolo.vhd" \
+      EN work/JKtarolo 1557399959
+FL "D:/Digit 2/FrekOszto/Frek2/FrekvenciaOsztoStrukturalisFelepitese/Logika.vhd" 2019/04/09.11:35:28 P.20131013
+EN work/Logika 1557399961 \
+      FL "D:/Digit 2/FrekOszto/Frek2/FrekvenciaOsztoStrukturalisFelepitese/Logika.vhd" \
+      PB ieee/std_logic_1164 1381692176
+AR work/Logika/Behavioral 1557399962 \
+      FL "D:/Digit 2/FrekOszto/Frek2/FrekvenciaOsztoStrukturalisFelepitese/Logika.vhd" \
+      EN work/Logika 1557399961
+FL "D:/Digit 2/FrekOszto/Frek2/FrekvenciaOsztoStrukturalisFelepitese/Orajel.vhd" 2019/04/04.05:00:22 P.20131013
+EN work/Orajel 1557399957 \
+      FL "D:/Digit 2/FrekOszto/Frek2/FrekvenciaOsztoStrukturalisFelepitese/Orajel.vhd" \
+      PB ieee/std_logic_1164 1381692176 PB ieee/std_logic_arith 1381692177 \
+      PB ieee/STD_LOGIC_UNSIGNED 1381692179
+AR work/Orajel/Behavioral 1557399958 \
+      FL "D:/Digit 2/FrekOszto/Frek2/FrekvenciaOsztoStrukturalisFelepitese/Orajel.vhd" \
+      EN work/Orajel 1557399957
