@@ -1,0 +1,5 @@
+MODULE bitelore
+	SUBMODULE dekodolo
+		INSTANCE XLXI_1
+	SUBMODULE Orajel
+		INSTANCE XLXI_2

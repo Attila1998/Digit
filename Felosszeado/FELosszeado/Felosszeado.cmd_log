@@ -1,0 +1,10 @@
+xst -intstyle ise -ifn "D:/Digit 2/Felosszeado/FELosszeado/Felosszeado.xst" -ofn "D:/Digit 2/Felosszeado/FELosszeado/Felosszeado.syr" 
+xst -intstyle ise -ifn "D:/Digit 2/Felosszeado/FELosszeado/Felosszeado.xst" -ofn "D:/Digit 2/Felosszeado/FELosszeado/Felosszeado.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s100e-cp132-5 "Felosszeado.ngc" Felosszeado.ngd  
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Felosszeado.ucf -p xc3s100e-cp132-5 "Felosszeado.ngc" Felosszeado.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o Felosszeado_map.ncd Felosszeado.ngd Felosszeado.pcf 
+par -w -intstyle ise -ol high -t 1 Felosszeado_map.ncd Felosszeado.ncd Felosszeado.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml Felosszeado.twx Felosszeado.ncd -o Felosszeado.twr Felosszeado.pcf -ucf Felosszeado.ucf 
+bitgen -intstyle ise -f Felosszeado.ut Felosszeado.ncd 
+vhdtdtfi -lib work Felosszeado.vhd -prj FELosszeado -o Felosszeado.spl -module Felosszeado -template E:/NewFolder/14.7/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e Felosszeado.spl {D:/Digit 2/Felosszeado/FELosszeado/Felosszeado.sym} 

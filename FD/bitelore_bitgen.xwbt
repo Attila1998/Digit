@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=C:\diak\Andras Alpar\FD\bitelore.ncd
+OUTFILE=C:\diak\Andras Alpar\FD\bitelore.bit
+FAMILY=Spartan3E
+PART=xc3s250e-4cp132
+WORKINGDIR=C:\diak\Andras Alpar\FD
+LICENSE=ISE
+USER_INFO=176860571_203016847_210573437_600

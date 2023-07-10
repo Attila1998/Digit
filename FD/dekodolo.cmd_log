@@ -1,0 +1,2 @@
+vhdtdtfi -lib work dekodolo.vhd -prj FD -o dekodolo.spl -module dekodolo -template C:/Xilinx/14.7/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e dekodolo.spl {C:/diak/Andras Alpar/FD/dekodolo.sym} 

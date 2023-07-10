@@ -1,0 +1,3 @@
+vhdl work "dekodolo.vhd"
+vhdl work "../CLK/Orajel/Orajel.vhd"
+vhdl work "bitelore.vhf"

@@ -1,0 +1,6 @@
+AR bitelore behavioral "C:/diak/Andras Alpar/FD/bitelore.vhf" sub00/vhpl05 1554378995
+EN orajel NULL "C:/diak/Andras Alpar/CLK/Orajel/Orajel.vhd" sub00/vhpl02 1554378992
+AR dekodolo behavioral "C:/diak/Andras Alpar/FD/dekodolo.vhd" sub00/vhpl01 1554378991
+EN bitelore NULL "C:/diak/Andras Alpar/FD/bitelore.vhf" sub00/vhpl04 1554378994
+EN dekodolo NULL "C:/diak/Andras Alpar/FD/dekodolo.vhd" sub00/vhpl00 1554378990
+AR orajel behavioral "C:/diak/Andras Alpar/CLK/Orajel/Orajel.vhd" sub00/vhpl03 1554378993

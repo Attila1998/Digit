@@ -1,0 +1,19 @@
+V3 16
+FL "C:/diak/Andras Alpar/CLK/Orajel/Orajel.vhd" 2019/04/04.13:56:01 P.20131013
+EN work/Orajel 1554378992 FL "C:/diak/Andras Alpar/CLK/Orajel/Orajel.vhd" \
+      PB ieee/std_logic_1164 1381692176 PB ieee/std_logic_arith 1381692177 \
+      PB ieee/STD_LOGIC_UNSIGNED 1381692179
+AR work/Orajel/Behavioral 1554378993 \
+      FL "C:/diak/Andras Alpar/CLK/Orajel/Orajel.vhd" EN work/Orajel 1554378992
+FL "C:/diak/Andras Alpar/FD/bitelore.vhf" 2019/04/04.14:55:03 P.20131013
+EN work/bitelore 1554378994 FL "C:/diak/Andras Alpar/FD/bitelore.vhf" \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181 LB UNISIM \
+      PH unisim/VCOMPONENTS 1381692182
+AR work/bitelore/BEHAVIORAL 1554378995 \
+      FL "C:/diak/Andras Alpar/FD/bitelore.vhf" EN work/bitelore 1554378994 \
+      CP dekodolo CP Orajel CP FD CP INV CP XNOR3 CP GND
+FL "C:/diak/Andras Alpar/FD/dekodolo.vhd" 2019/03/28.16:11:14 P.20131013
+EN work/dekodolo 1554378990 FL "C:/diak/Andras Alpar/FD/dekodolo.vhd" \
+      PB ieee/std_logic_1164 1381692176
+AR work/dekodolo/Behavioral 1554378991 \
+      FL "C:/diak/Andras Alpar/FD/dekodolo.vhd" EN work/dekodolo 1554378990

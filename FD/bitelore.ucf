@@ -1,0 +1,13 @@
+NET "mclk" LOC = "B8"; # Bank = 0, Signal name = MCLK
+
+NET "a" LOC = "L3";  # Bank = 3, Signal name = SW1
+NET "en" LOC = "P11";  # Bank = 2, Signal name = SW0
+
+NET "szegm(7)" LOC = "L14"; # Bank = 1, Signal name = CA
+NET "szegm(6)" LOC = "H12"; # Bank = 1, Signal name = CB
+NET "szegm(5)" LOC = "N14"; # Bank = 1, Signal name = CC
+NET "szegm(4)" LOC = "N11"; # Bank = 2, Signal name = CD
+NET "szegm(3)" LOC = "P12"; # Bank = 2, Signal name = CE
+NET "szegm(2)" LOC = "L13"; # Bank = 1, Signal name = CF
+NET "szegm(1)" LOC = "M12"; # Bank = 1, Signal name = CG
+NET "szegm(0)" LOC = "N13"; # Bank = 1, Signal name = DP
