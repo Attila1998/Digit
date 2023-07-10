@@ -1,0 +1,34 @@
+V3 19
+FL "D:/Digit 2/DigitLabgyak/Dpot/StruktAutD.vhd" 2019/06/20.13:44:58 P.20131013
+EN work/StruktAutD 1561029085 FL "D:/Digit 2/DigitLabgyak/Dpot/StruktAutD.vhd" \
+      PB ieee/std_logic_1164 1381692176
+AR work/StruktAutD/Behavioral 1561029086 \
+      FL "D:/Digit 2/DigitLabgyak/Dpot/StruktAutD.vhd" EN work/StruktAutD 1561029085 \
+      CP orajel CP logika CP dekodolo CP Dtarolo
+FL "D:/Digit 2/Szimulacio/Simulare/Dport1/Dport/dekodolo.vhd" 2019/05/16.14:25:01 P.20131013
+EN work/dekodolo 1561029081 \
+      FL "D:/Digit 2/Szimulacio/Simulare/Dport1/Dport/dekodolo.vhd" \
+      PB ieee/std_logic_1164 1381692176
+AR work/dekodolo/Behavioral 1561029082 \
+      FL "D:/Digit 2/Szimulacio/Simulare/Dport1/Dport/dekodolo.vhd" \
+      EN work/dekodolo 1561029081
+FL "D:/Digit 2/Szimulacio/Simulare/Dport1/Dport/Dtarolo.vhd" 2019/04/11.13:49:33 P.20131013
+EN work/Dtarolo 1561029083 \
+      FL "D:/Digit 2/Szimulacio/Simulare/Dport1/Dport/Dtarolo.vhd" \
+      PB ieee/std_logic_1164 1381692176
+AR work/Dtarolo/Behavioral 1561029084 \
+      FL "D:/Digit 2/Szimulacio/Simulare/Dport1/Dport/Dtarolo.vhd" \
+      EN work/Dtarolo 1561029083
+FL "D:/Digit 2/Szimulacio/Simulare/Dport1/Dport/Logika.vhd" 2019/06/20.14:11:13 P.20131013
+EN work/Logika 1561029079 \
+      FL "D:/Digit 2/Szimulacio/Simulare/Dport1/Dport/Logika.vhd" \
+      PB ieee/std_logic_1164 1381692176
+AR work/Logika/Behavioral 1561029080 \
+      FL "D:/Digit 2/Szimulacio/Simulare/Dport1/Dport/Logika.vhd" EN work/Logika 1561029079
+FL "D:/Digit 2/Szimulacio/Simulare/Dport1/Dport/Orajel.vhd" 2019/04/04.05:00:22 P.20131013
+EN work/Orajel 1561029077 \
+      FL "D:/Digit 2/Szimulacio/Simulare/Dport1/Dport/Orajel.vhd" \
+      PB ieee/std_logic_1164 1381692176 PB ieee/std_logic_arith 1381692177 \
+      PB ieee/STD_LOGIC_UNSIGNED 1381692179
+AR work/Orajel/Behavioral 1561029078 \
+      FL "D:/Digit 2/Szimulacio/Simulare/Dport1/Dport/Orajel.vhd" EN work/Orajel 1561029077

@@ -1,0 +1,19 @@
+xst -intstyle ise -ifn "D:/Digit 2/DigitLabgyak/Dpot/StruktAutD.xst" -ofn "D:/Digit 2/DigitLabgyak/Dpot/StruktAutD.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s250e-cp132-5 "StruktAutD.ngc" StruktAutD.ngd  
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc StruktAutD.ucf -p xc3s250e-cp132-5 "StruktAutD.ngc" StruktAutD.ngd  
+map -intstyle ise -p xc3s250e-cp132-5 -cm area -ir off -pr off -c 100 -o StruktAutD_map.ncd StruktAutD.ngd StruktAutD.pcf 
+par -w -intstyle ise -ol high -t 1 StruktAutD_map.ncd StruktAutD.ncd StruktAutD.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml StruktAutD.twx StruktAutD.ncd -o StruktAutD.twr StruktAutD.pcf -ucf StruktAutD.ucf 
+bitgen -intstyle ise -f StruktAutD.ut StruktAutD.ncd 
+xst -intstyle ise -ifn "D:/Digit 2/DigitLabgyak/Dpot/StruktAutD.xst" -ofn "D:/Digit 2/DigitLabgyak/Dpot/StruktAutD.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc StruktAutD.ucf -p xc3s100e-cp132-5 "StruktAutD.ngc" StruktAutD.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o StruktAutD_map.ncd StruktAutD.ngd StruktAutD.pcf 
+par -w -intstyle ise -ol high -t 1 StruktAutD_map.ncd StruktAutD.ncd StruktAutD.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml StruktAutD.twx StruktAutD.ncd -o StruktAutD.twr StruktAutD.pcf -ucf StruktAutD.ucf 
+bitgen -intstyle ise -f StruktAutD.ut StruktAutD.ncd 
+xst -intstyle ise -ifn "D:/Digit 2/DigitLabgyak/Dpot/StruktAutD.xst" -ofn "D:/Digit 2/DigitLabgyak/Dpot/StruktAutD.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc StruktAutD.ucf -p xc3s100e-cp132-5 "StruktAutD.ngc" StruktAutD.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o StruktAutD_map.ncd StruktAutD.ngd StruktAutD.pcf 
+par -w -intstyle ise -ol high -t 1 StruktAutD_map.ncd StruktAutD.ncd StruktAutD.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml StruktAutD.twx StruktAutD.ncd -o StruktAutD.twr StruktAutD.pcf -ucf StruktAutD.ucf 
+bitgen -intstyle ise -f StruktAutD.ut StruktAutD.ncd 

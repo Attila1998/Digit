@@ -1,0 +1,19 @@
+//! **************************************************************************
+// Written by: Map P.20131013 on Thu Jun 20 14:11:33 2019
+//! **************************************************************************
+
+SCHEMATIC START;
+COMP "MCLK" LOCATE = SITE "B8" LEVEL 1;
+COMP "szegmensek<0>" LOCATE = SITE "L14" LEVEL 1;
+COMP "szegmensek<1>" LOCATE = SITE "H12" LEVEL 1;
+COMP "szegmensek<2>" LOCATE = SITE "N14" LEVEL 1;
+COMP "szegmensek<3>" LOCATE = SITE "N11" LEVEL 1;
+COMP "szegmensek<4>" LOCATE = SITE "P12" LEVEL 1;
+COMP "szegmensek<5>" LOCATE = SITE "L13" LEVEL 1;
+COMP "szegmensek<6>" LOCATE = SITE "M12" LEVEL 1;
+COMP "szegmensek<7>" LOCATE = SITE "N13" LEVEL 1;
+COMP "a" LOCATE = SITE "P11" LEVEL 1;
+COMP "b" LOCATE = SITE "L3" LEVEL 1;
+NET "MCLK_BUFGP/IBUFG" BEL "MCLK_BUFGP/BUFG.GCLKMUX" USELOCALCONNECT;
+SCHEMATIC END;
+

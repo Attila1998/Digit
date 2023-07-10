@@ -1,0 +1,5 @@
+vhdl work "../../Szimulacio/Simulare/Dport1/Dport/Orajel.vhd"
+vhdl work "../../Szimulacio/Simulare/Dport1/Dport/Logika.vhd"
+vhdl work "../../Szimulacio/Simulare/Dport1/Dport/Dtarolo.vhd"
+vhdl work "../../Szimulacio/Simulare/Dport1/Dport/dekodolo.vhd"
+vhdl work "StruktAutD.vhd"
