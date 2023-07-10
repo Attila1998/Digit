@@ -1,0 +1,5 @@
+xst -intstyle ise -ifn "D:/Digit 2/7szeg/Dekodolo7szeg/szeg.xst" -ofn "D:/Digit 2/7szeg/Dekodolo7szeg/szeg.syr" 
+xst -intstyle ise -ifn "D:/Digit 2/7szeg/Dekodolo7szeg/szeg.xst" -ofn "D:/Digit 2/7szeg/Dekodolo7szeg/szeg.syr" 
+xst -intstyle ise -ifn "D:/Digit 2/7szeg/Dekodolo7szeg/szeg.xst" -ofn "D:/Digit 2/7szeg/Dekodolo7szeg/szeg.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s250e-cp132-5 "szeg.ngc" szeg.ngd  
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc szeg.ucf -p xc3s250e-cp132-5 "szeg.ngc" szeg.ngd  

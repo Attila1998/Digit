@@ -1,0 +1,6 @@
+V3 3
+FL "D:/Digit 2/7szeg/Dekodolo7szeg/szeg.vhd" 2019/03/28.14:53:35 P.20131013
+EN work/szeg 1553777618 FL "D:/Digit 2/7szeg/Dekodolo7szeg/szeg.vhd" \
+      PB ieee/std_logic_1164 1381692176
+AR work/szeg/Behavioral 1553777619 \
+      FL "D:/Digit 2/7szeg/Dekodolo7szeg/szeg.vhd" EN work/szeg 1553777618
