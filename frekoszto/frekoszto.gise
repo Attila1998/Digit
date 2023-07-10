@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<generated_project xmlns="http://www.xilinx.com/XMLSchema" xmlns:xil_pn="http://www.xilinx.com/XMLSchema">
+
+  <!--                                                          -->
+
+  <!--             For tool use only. Do not edit.              -->
+
+  <!--                                                          -->
+
+  <!-- ProjectNavigator created generated project file.         -->
+
+  <!-- For use in tracking generated file and other information -->
+
+  <!-- allowing preservation of process status.                 -->
+
+  <!--                                                          -->
+
+  <!-- Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved. -->
+
+  <version xmlns="http://www.xilinx.com/XMLSchema">11.1</version>
+
+  <sourceproject xmlns="http://www.xilinx.com/XMLSchema" xil_pn:fileType="FILE_XISE" xil_pn:name="frekoszto.xise"/>
+
+  <files xmlns="http://www.xilinx.com/XMLSchema">
+    <file xil_pn:fileType="FILE_SPL" xil_pn:name="Logika.spl"/>
+    <file xil_pn:fileType="FILE_SYMBOL" xil_pn:name="Logika.sym" xil_pn:origination="imported"/>
+    <file xil_pn:fileType="FILE_SPL" xil_pn:name="Orajel.spl"/>
+    <file xil_pn:fileType="FILE_SYMBOL" xil_pn:name="Orajel.sym" xil_pn:origination="imported"/>
+    <file xil_pn:fileType="FILE_DIRECTORY" xil_pn:name="_ngo"/>
+    <file xil_pn:fileType="FILE_XMSGS" xil_pn:name="_xmsgs/bitgen.xmsgs"/>
+    <file xil_pn:fileType="FILE_XMSGS" xil_pn:name="_xmsgs/map.xmsgs"/>
+    <file xil_pn:fileType="FILE_XMSGS" xil_pn:name="_xmsgs/ngdbuild.xmsgs"/>
+    <file xil_pn:fileType="FILE_XMSGS" xil_pn:name="_xmsgs/par.xmsgs"/>
+    <file xil_pn:fileType="FILE_XMSGS" xil_pn:name="_xmsgs/trce.xmsgs"/>
+    <file xil_pn:fileType="FILE_XMSGS" xil_pn:name="_xmsgs/xst.xmsgs"/>
+    <file xil_pn:fileType="FILE_SPL" xil_pn:name="dekodolo.spl"/>
+    <file xil_pn:fileType="FILE_SYMBOL" xil_pn:name="dekodolo.sym" xil_pn:origination="imported"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_BITGEN_REPORT" xil_pn:name="frekoszto.bgn" xil_pn:subbranch="FPGAConfiguration"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_BIT" xil_pn:name="frekoszto.bit" xil_pn:subbranch="FPGAConfiguration"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGDBUILD_LOG" xil_pn:name="frekoszto.bld"/>
+    <file xil_pn:fileType="FILE_CMD_LOG" xil_pn:name="frekoszto.cmd_log"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_BITGEN_DRC" xil_pn:name="frekoszto.drc" xil_pn:subbranch="FPGAConfiguration"/>
+    <file xil_pn:fileType="FILE_JHD" xil_pn:name="frekoszto.jhd"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_LSO" xil_pn:name="frekoszto.lso"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NCD" xil_pn:name="frekoszto.ncd" xil_pn:subbranch="Par"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGC" xil_pn:name="frekoszto.ngc"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGD" xil_pn:name="frekoszto.ngd"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGR" xil_pn:name="frekoszto.ngr"/>
+    <file xil_pn:fileType="FILE_PAD_MISC" xil_pn:name="frekoszto.pad"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_PAR_REPORT" xil_pn:name="frekoszto.par" xil_pn:subbranch="Par"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_PCF" xil_pn:name="frekoszto.pcf" xil_pn:subbranch="Map"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="frekoszto.prj"/>
+    <file xil_pn:fileType="FILE_TRCE_MISC" xil_pn:name="frekoszto.ptwx"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_STX" xil_pn:name="frekoszto.stx"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_REPORT" xil_pn:name="frekoszto.syr"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_TIMING_TXT_REPORT" xil_pn:name="frekoszto.twr" xil_pn:subbranch="Par"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_TIMING_XML_REPORT" xil_pn:name="frekoszto.twx" xil_pn:subbranch="Par"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_UNROUTES" xil_pn:name="frekoszto.unroutes" xil_pn:subbranch="Par"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_BITGEN_REPORT" xil_pn:name="frekoszto.ut" xil_pn:subbranch="FPGAConfiguration"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_VERILOG" xil_pn:name="frekoszto.vf"/>
+    <file xil_pn:fileType="FILE_XPI" xil_pn:name="frekoszto.xpi"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST" xil_pn:name="frekoszto.xst"/>
+    <file xil_pn:fileType="FILE_HTML" xil_pn:name="frekoszto_envsettings.html"/>
+    <file xil_pn:fileType="FILE_NCD" xil_pn:name="frekoszto_guide.ncd" xil_pn:origination="imported"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_MAP_REPORT" xil_pn:name="frekoszto_map.map" xil_pn:subbranch="Map"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_MAP_REPORT" xil_pn:name="frekoszto_map.mrp" xil_pn:subbranch="Map"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NCD" xil_pn:name="frekoszto_map.ncd" xil_pn:subbranch="Map"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGM" xil_pn:name="frekoszto_map.ngm" xil_pn:subbranch="Map"/>
+    <file xil_pn:fileType="FILE_XRPT" xil_pn:name="frekoszto_map.xrpt"/>
+    <file xil_pn:fileType="FILE_XRPT" xil_pn:name="frekoszto_ngdbuild.xrpt"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_PAD_EXCEL_REPORT" xil_pn:name="frekoszto_pad.csv" xil_pn:subbranch="Par"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_PAD_TXT_REPORT" xil_pn:name="frekoszto_pad.txt" xil_pn:subbranch="Par"/>
+    <file xil_pn:fileType="FILE_XRPT" xil_pn:name="frekoszto_par.xrpt"/>
+    <file xil_pn:fileType="FILE_HTML" xil_pn:name="frekoszto_summary.html"/>
+    <file xil_pn:fileType="FILE_FITTER_REPORT" xil_pn:name="frekoszto_summary.xml"/>
+    <file xil_pn:fileType="FILE_WEBTALK" xil_pn:name="frekoszto_usage.xml"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="frekoszto_vhdl.prj"/>
+    <file xil_pn:fileType="FILE_XRPT" xil_pn:name="frekoszto_xst.xrpt"/>
+    <file xil_pn:fileType="FILE_HTML" xil_pn:name="usage_statistics_webtalk.html"/>
+    <file xil_pn:fileType="FILE_LOG" xil_pn:name="webtalk.log"/>
+    <file xil_pn:fileType="FILE_FITTER_REPORT" xil_pn:name="webtalk_pn.xml"/>
+    <file xil_pn:fileType="FILE_DIRECTORY" xil_pn:name="xlnx_auto_0_xdb"/>
+    <file xil_pn:fileType="FILE_DIRECTORY" xil_pn:name="xst"/>
+  </files>
+
+  <transforms xmlns="http://www.xilinx.com/XMLSchema">
+    <transform xil_pn:end_ts="1554979244" xil_pn:name="TRAN_copyInitialToXSTAbstractSynthesis" xil_pn:start_ts="1554979244">
+      <status xil_pn:value="SuccessfullyRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1554979247" xil_pn:in_ck="-8421093388273690829" xil_pn:name="TRAN_schematicsToHdl" xil_pn:prop_ck="-4720697939289170560" xil_pn:start_ts="1554979244">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <outfile xil_pn:name="frekoszto.vf"/>
+    </transform>
+    <transform xil_pn:end_ts="1554979247" xil_pn:name="TRAN_regenerateCores" xil_pn:prop_ck="-606162212556195190" xil_pn:start_ts="1554979247">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1554979247" xil_pn:name="TRAN_SubProjectAbstractToPreProxy" xil_pn:start_ts="1554979247">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1554979247" xil_pn:name="TRAN_xawsTohdl" xil_pn:prop_ck="7813399801366339070" xil_pn:start_ts="1554979247">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1554979247" xil_pn:name="TRAN_SubProjectPreToStructuralProxy" xil_pn:prop_ck="2988080280822507185" xil_pn:start_ts="1554979247">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1554979247" xil_pn:name="TRAN_platgen" xil_pn:prop_ck="8179803363850352852" xil_pn:start_ts="1554979247">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1554979256" xil_pn:in_ck="-8471257966516667994" xil_pn:name="TRANEXT_xstsynthesize_spartan3e" xil_pn:prop_ck="2643347948445511505" xil_pn:start_ts="1554979247">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <status xil_pn:value="OutOfDateForOutputs"/>
+      <status xil_pn:value="OutputChanged"/>
+      <outfile xil_pn:name="_xmsgs/xst.xmsgs"/>
+      <outfile xil_pn:name="frekoszto.jhd"/>
+      <outfile xil_pn:name="frekoszto.lso"/>
+      <outfile xil_pn:name="frekoszto.ngc"/>
+      <outfile xil_pn:name="frekoszto.ngr"/>
+      <outfile xil_pn:name="frekoszto.prj"/>
+      <outfile xil_pn:name="frekoszto.stx"/>
+      <outfile xil_pn:name="frekoszto.syr"/>
+      <outfile xil_pn:name="frekoszto.xst"/>
+      <outfile xil_pn:name="frekoszto_vhdl.prj"/>
+      <outfile xil_pn:name="frekoszto_xst.xrpt"/>
+      <outfile xil_pn:name="webtalk_pn.xml"/>
+      <outfile xil_pn:name="xst"/>
+    </transform>
+    <transform xil_pn:end_ts="1554979256" xil_pn:in_ck="-8421093388273688653" xil_pn:name="TRAN_compileBCD2" xil_pn:prop_ck="-8119206571022903895" xil_pn:start_ts="1554979256">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1554979263" xil_pn:in_ck="-6697432054586381504" xil_pn:name="TRANEXT_ngdbuild_FPGA" xil_pn:prop_ck="-5545003809312277843" xil_pn:start_ts="1554979256">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <outfile xil_pn:name="_ngo"/>
+      <outfile xil_pn:name="_xmsgs/ngdbuild.xmsgs"/>
+      <outfile xil_pn:name="frekoszto.bld"/>
+      <outfile xil_pn:name="frekoszto.ngd"/>
+      <outfile xil_pn:name="frekoszto_ngdbuild.xrpt"/>
+    </transform>
+    <transform xil_pn:end_ts="1554979268" xil_pn:in_ck="-6997310282266532639" xil_pn:name="TRANEXT_map_spartan3" xil_pn:prop_ck="3236488012892527759" xil_pn:start_ts="1554979263">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <status xil_pn:value="OutOfDateForOutputs"/>
+      <status xil_pn:value="OutputChanged"/>
+      <outfile xil_pn:name="_xmsgs/map.xmsgs"/>
+      <outfile xil_pn:name="frekoszto.pcf"/>
+      <outfile xil_pn:name="frekoszto_map.map"/>
+      <outfile xil_pn:name="frekoszto_map.mrp"/>
+      <outfile xil_pn:name="frekoszto_map.ncd"/>
+      <outfile xil_pn:name="frekoszto_map.ngm"/>
+      <outfile xil_pn:name="frekoszto_map.xrpt"/>
+      <outfile xil_pn:name="frekoszto_summary.xml"/>
+      <outfile xil_pn:name="frekoszto_usage.xml"/>
+    </transform>
+    <transform xil_pn:end_ts="1554979280" xil_pn:in_ck="563383770563785882" xil_pn:name="TRANEXT_par_spartan3" xil_pn:prop_ck="1934304854298957634" xil_pn:start_ts="1554979268">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="WarningsGenerated"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <outfile xil_pn:name="_xmsgs/par.xmsgs"/>
+      <outfile xil_pn:name="frekoszto.ncd"/>
+      <outfile xil_pn:name="frekoszto.pad"/>
+      <outfile xil_pn:name="frekoszto.par"/>
+      <outfile xil_pn:name="frekoszto.ptwx"/>
+      <outfile xil_pn:name="frekoszto.unroutes"/>
+      <outfile xil_pn:name="frekoszto.xpi"/>
+      <outfile xil_pn:name="frekoszto_pad.csv"/>
+      <outfile xil_pn:name="frekoszto_pad.txt"/>
+      <outfile xil_pn:name="frekoszto_par.xrpt"/>
+    </transform>
+    <transform xil_pn:end_ts="1554979290" xil_pn:in_ck="-8421093388273696278" xil_pn:name="TRANEXT_bitFile_spartan3e" xil_pn:prop_ck="287829442711806529" xil_pn:start_ts="1554979280">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <outfile xil_pn:name="_xmsgs/bitgen.xmsgs"/>
+      <outfile xil_pn:name="frekoszto.bgn"/>
+      <outfile xil_pn:name="frekoszto.bit"/>
+      <outfile xil_pn:name="frekoszto.drc"/>
+      <outfile xil_pn:name="frekoszto.ut"/>
+      <outfile xil_pn:name="usage_statistics_webtalk.html"/>
+      <outfile xil_pn:name="webtalk.log"/>
+      <outfile xil_pn:name="webtalk_pn.xml"/>
+    </transform>
+    <transform xil_pn:end_ts="1554979294" xil_pn:in_ck="-8421093388273709132" xil_pn:name="TRAN_configureTargetDevice" xil_pn:prop_ck="5582947192412673156" xil_pn:start_ts="1554979292">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1554979280" xil_pn:in_ck="-4306872375905686051" xil_pn:name="TRAN_postRouteTrce" xil_pn:prop_ck="445577401284416187" xil_pn:start_ts="1554979277">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <outfile xil_pn:name="_xmsgs/trce.xmsgs"/>
+      <outfile xil_pn:name="frekoszto.twr"/>
+      <outfile xil_pn:name="frekoszto.twx"/>
+    </transform>
+  </transforms>
+
+</generated_project>

@@ -1,0 +1,17 @@
+V3 9
+FL "D:/Digit 2/FrekOszto/frekoszto/dekodolo.vhd" 2019/03/28.16:11:16 P.20131013
+EN work/dekodolo 1554979250 FL "D:/Digit 2/FrekOszto/frekoszto/dekodolo.vhd" \
+      PB ieee/std_logic_1164 1381692176
+AR work/dekodolo/Behavioral 1554979251 \
+      FL "D:/Digit 2/FrekOszto/frekoszto/dekodolo.vhd" EN work/dekodolo 1554979250
+FL "D:/Digit 2/FrekOszto/frekoszto/Logika.vhd" 2019/04/09.11:35:28 P.20131013
+EN work/Logika 1554979252 FL "D:/Digit 2/FrekOszto/frekoszto/Logika.vhd" \
+      PB ieee/std_logic_1164 1381692176
+AR work/Logika/Behavioral 1554979253 \
+      FL "D:/Digit 2/FrekOszto/frekoszto/Logika.vhd" EN work/Logika 1554979252
+FL "D:/Digit 2/FrekOszto/frekoszto/Orajel.vhd" 2019/04/04.05:00:22 P.20131013
+EN work/Orajel 1554979254 FL "D:/Digit 2/FrekOszto/frekoszto/Orajel.vhd" \
+      PB ieee/std_logic_1164 1381692176 PB ieee/std_logic_arith 1381692177 \
+      PB ieee/STD_LOGIC_UNSIGNED 1381692179
+AR work/Orajel/Behavioral 1554979255 \
+      FL "D:/Digit 2/FrekOszto/frekoszto/Orajel.vhd" EN work/Orajel 1554979254

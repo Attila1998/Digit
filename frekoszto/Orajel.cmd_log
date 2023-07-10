@@ -1,0 +1,2 @@
+vhdtdtfi -lib work Orajel.vhd -prj frekoszto -o Orajel.spl -module Orajel -template E:/NewFolder/14.7/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e Orajel.spl {D:/Digit 2/FrekOszto/frekoszto/Orajel.sym} 

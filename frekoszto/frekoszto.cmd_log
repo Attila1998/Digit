@@ -1,0 +1,16 @@
+xst -intstyle ise -ifn "D:/Digit 2/FrekOszto/frekoszto/frekoszto.xst" -ofn "D:/Digit 2/FrekOszto/frekoszto/frekoszto.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s1600e-fg484-4 "frekoszto.ngc" frekoszto.ngd  
+map -intstyle ise -p xc3s1600e-fg484-4 -cm area -ir off -pr off -c 100 -o frekoszto_map.ncd frekoszto.ngd frekoszto.pcf 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc frekoszto.ucf -p xc3s1600e-fg484-4 "frekoszto.ngc" frekoszto.ngd  
+map -intstyle ise -p xc3s1600e-fg484-4 -cm area -ir off -pr off -c 100 -o frekoszto_map.ncd frekoszto.ngd frekoszto.pcf 
+par -w -intstyle ise -ol high -t 1 frekoszto_map.ncd frekoszto.ncd frekoszto.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml frekoszto.twx frekoszto.ncd -o frekoszto.twr frekoszto.pcf -ucf frekoszto.ucf 
+bitgen -intstyle ise -f frekoszto.ut frekoszto.ncd 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc frekoszto.ucf -p xc3s1600e-fg484-4 "frekoszto.ngc" frekoszto.ngd  
+map -intstyle ise -p xc3s1600e-fg484-4 -cm area -ir off -pr off -c 100 -o frekoszto_map.ncd frekoszto.ngd frekoszto.pcf 
+xst -intstyle ise -ifn "D:/Digit 2/FrekOszto/frekoszto/frekoszto.xst" -ofn "D:/Digit 2/FrekOszto/frekoszto/frekoszto.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc frekoszto.ucf -p xc3s100e-cp132-5 "frekoszto.ngc" frekoszto.ngd  
+map -intstyle ise -p xc3s100e-cp132-5 -cm area -ir off -pr off -c 100 -o frekoszto_map.ncd frekoszto.ngd frekoszto.pcf 
+par -w -intstyle ise -ol high -t 1 frekoszto_map.ncd frekoszto.ncd frekoszto.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml frekoszto.twx frekoszto.ncd -o frekoszto.twr frekoszto.pcf -ucf frekoszto.ucf 
+bitgen -intstyle ise -f frekoszto.ut frekoszto.ncd 

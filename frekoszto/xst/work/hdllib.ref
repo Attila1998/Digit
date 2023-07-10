@@ -1,0 +1,8 @@
+MO FJKC_MXILINX_frekoszto NULL frekoszto.vf vlg48/_f_j_k_c___m_x_i_l_i_n_x__frekoszto.bin 1554979250
+EN orajel NULL "D:/Digit 2/FrekOszto/frekoszto/Orajel.vhd" sub00/vhpl04 1554979254
+MO frekoszto NULL frekoszto.vf vlg27/frekoszto.bin 1554979250
+AR dekodolo behavioral "D:/Digit 2/FrekOszto/frekoszto/dekodolo.vhd" sub00/vhpl01 1554979251
+EN dekodolo NULL "D:/Digit 2/FrekOszto/frekoszto/dekodolo.vhd" sub00/vhpl00 1554979250
+AR logika behavioral "D:/Digit 2/FrekOszto/frekoszto/Logika.vhd" sub00/vhpl03 1554979253
+EN logika NULL "D:/Digit 2/FrekOszto/frekoszto/Logika.vhd" sub00/vhpl02 1554979252
+AR orajel behavioral "D:/Digit 2/FrekOszto/frekoszto/Orajel.vhd" sub00/vhpl05 1554979255

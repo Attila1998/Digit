@@ -1,0 +1,4 @@
+vhdl work "Orajel.vhd"
+vhdl work "Logika.vhd"
+vhdl work "dekodolo.vhd"
+verilog work "frekoszto.vf"
